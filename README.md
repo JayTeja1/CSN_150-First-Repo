@@ -3,7 +3,7 @@ Someone was here
   This is an image
   
   ![this is a smile face](images/OIP.jpg)
-  !image[https://i.imgur.com/t7EPPMrb.jpg]
+  !image[[Something](https://i.imgur.com/3Ci1Ffsb.jpg)]
   
   **Bold**
   
