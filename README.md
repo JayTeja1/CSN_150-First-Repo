@@ -19,7 +19,7 @@ var snake
 console.log(cat + dog + snake)
 ```
 ### Third Heading
-The link is here [Youtube](https://www.youtube.com/)]
+The link is here [Youtube](https://www.youtube.com/)
 
 
 
