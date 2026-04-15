@@ -17,6 +17,6 @@ var dog
 var cat
 var snake
 console.log(cat + dog + snake)
-
+```
 ### Third Heading
 
