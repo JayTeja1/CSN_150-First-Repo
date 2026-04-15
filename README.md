@@ -20,6 +20,7 @@ console.log(cat + dog + snake)
 ```
 ### Third Heading
 The link is here [Youtube](https://www.youtube.com/)
+Relative Link: [README2.md](/README2.md)
 
 
 
