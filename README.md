@@ -1,6 +1,7 @@
 # CSN_150-First-Repo
 Someone was here
-  
+  This is an image
+  ![this is a smile face](images/OIP.jpg)
   **Bold**
   
   *Italics*
