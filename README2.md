@@ -7,6 +7,6 @@
  **Bold**
 ### The Start 3
 
-  *Italics*
+  *Super*
   
-  ~strikethrough~
+  ~Yasmin~
