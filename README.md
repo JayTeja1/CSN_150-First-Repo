@@ -6,8 +6,8 @@ List
 - number 3
 
 ## Task List
--[x] completed
--[] not completed
+- [x] completed
+- [] not completed
  
   This is an image
   
