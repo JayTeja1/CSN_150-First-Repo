@@ -7,7 +7,7 @@ List
 
 ## Task List
 - [x] completed
-- [] not completed
+- [ ] not completed
  
   This is an image
   
