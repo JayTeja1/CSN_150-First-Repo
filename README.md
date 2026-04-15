@@ -8,7 +8,8 @@ Someone was here
   ~strikethrough~
   
   ***bold Italics***
-Hello<sub>subscript</sub>
+Hello<sub>subscript</sub> <sup> </sup>superscript</sup>
+<ins>underline</ins>
 ## Second Heading
 ### Third Heading
 
